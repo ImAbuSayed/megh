@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/megh",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/3555",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=o5tnpKBzzEU",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/06/Megh.min_.webp",
   "sha256_hash": "4d7a76bb1055898fbecdb1232e7290b79ce0c260fad10ff8c1ea3255dac7f94d",
   "sha256_raw_hash": "d0dac12fa1c34a415ec69da7599120f83a58085ee7b1754502e68c744b32068b",
   "lyric_version": 1,
   "proof_timestamp": "2026-06-18T04:44:51.827873",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-06-17T22:46:19Z"
+  "song_creation_date": "June 18, 2026 at 3:30 AM",
+  "official_release_date": "2026-06-18",
+  "generated_at": "2026-06-17T23:36:03Z"
 }
